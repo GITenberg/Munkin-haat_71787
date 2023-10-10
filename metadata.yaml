@@ -1,0 +1,38 @@
+_repo: Munkin-haat_71787
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Kalima, Toini
+    gutenberg_agent_id: '47574'
+    url: http://www.gutenberg.org/2009/agents/47574
+creator:
+  author:
+    agent_name: Meyer, Conrad Ferdinand
+    aliases:
+    - Meyer-Ziegler, Konrad Ferdinand
+    - Meyer, C. F. (Conrad Ferdinand)
+    - Meyer, Konrad Ferdinand
+    birthdate: 1825
+    deathdate: 1898
+    gutenberg_agent_id: '1259'
+    url: http://www.gutenberg.org/2009/agents/1259
+    wikipedia:
+    - https://en.wikipedia.org/wiki/Conrad_Ferdinand_Meyer
+    - https://de.wikipedia.org/wiki/Conrad_Ferdinand_Meyer
+description: ''
+gutenberg_issued: '2023-10-03'
+identifiers:
+  gutenberg: '71787'
+language: fi
+pgterms:marc905: 20230608125445meyer
+pgterms:marc906: '1912'
+pgterms:marc907: FI
+production_note: Timo Ervasti and Tapio Riikonen
+publication_note: '  $aPorvoo :$bWSOY, $c1912.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Munkin häät
+url: http://www.gutenberg.org/ebooks/71787
