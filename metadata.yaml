@@ -5,6 +5,9 @@ contributor:
     agent_name: Kalima, Toini
     gutenberg_agent_id: '47574'
     url: http://www.gutenberg.org/2009/agents/47574
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Meyer, Conrad Ferdinand
@@ -20,6 +23,8 @@ creator:
     - https://en.wikipedia.org/wiki/Conrad_Ferdinand_Meyer
     - https://de.wikipedia.org/wiki/Conrad_Ferdinand_Meyer
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/71787#Munkin-haat
 gutenberg_issued: '2023-10-03'
 identifiers:
   gutenberg: '71787'
